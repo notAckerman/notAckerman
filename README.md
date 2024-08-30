@@ -23,7 +23,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://t.me/g1ovanni_giorgio" target="_blank">
-     <img src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 
 </div>
